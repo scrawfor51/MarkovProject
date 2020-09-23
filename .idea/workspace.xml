@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d82dcdff-beb6-440a-acf0-c4090c9833a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MarkovProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-page-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-page-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-page-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-page-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-page-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-page-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/MarkovProject/resources/batman-page-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batkov/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hv7oMrT208VZO9TfynRj3eXR1N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d82dcdff-beb6-440a-acf0-c4090c9833a5" name="Default Changelist" comment="" />
+      <created>1600879885097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600879885097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
